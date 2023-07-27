@@ -32,6 +32,5 @@
 - [RFC 8489: Session Traversal Utilities for NAT (STUN)](https://www.rfc-editor.org/rfc/rfc8489)
 - [RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://www.rfc-editor.org/rfc/rfc6238.txt)
 - [White Paper: Multi-Device FIDO Credentials](https://fidoalliance.org/white-paper-multi-device-fido-credentials/)
-
 - [HTTP header ja](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers)
 - [HTTP header en](https://developer.mozilla.org/en/docs/Web/HTTP/Headers)
