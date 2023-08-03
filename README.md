@@ -4,7 +4,11 @@
 ## これまでに読んだ文書
 - HTTP Header on MDN: [ja](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers)、[en](https://developer.mozilla.org/en/docs/Web/HTTP/Headers)
   - 2023/07/20: Accept-* 系を読んだ。
-  - 2023/07/27: 
+  - 2023/07/27: CORSの解説を読んだ。
+  - 2023/08/02: 街コンジャパンの Response Header を一つひとつ見て、MDN のヘッダの解説を読んだ。Signed HTTP Exchange や Web Packaging は初耳。
+  - 2023/08/09
+    - https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+    - https://developer.mozilla.org/en-US/docs/Web/HTTP/Session
 - [IP Network Address Translator (NAT) Terminology and Considerations](https://www.rfc-editor.org/rfc/rfc2663)
   - 2023/06/22: Preface, Abstract, Section 1（次回 Section 2 の頭から）
   - 2023/06/29: 2.1-2.3、次回の冒頭で Session Flow と Packet Flow の違い、そして Application Session と NAT Session の違いについて再度考える
