@@ -2,6 +2,12 @@
 一人で読むと挫折しそうな技術文書を読む。各文書は4回で終わらせる。たくさん読もうと思わず、読めるところまで。予習や事前準備は無し。
 
 ## これまでに読んだ文書
+- PKI
+  - 2023/08/17
+    - https://en.wikipedia.org/wiki/Public-key_cryptography
+    - https://en.wikipedia.org/wiki/Public_key_certificate
+    - https://en.wikipedia.org/wiki/Public_key_infrastructure
+    - https://en.wikipedia.org/wiki/Certificate_authority
 - HTTP Header on MDN: [ja](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers)、[en](https://developer.mozilla.org/en/docs/Web/HTTP/Headers)
   - 2023/07/20: Accept-* 系を読んだ。
   - 2023/07/27: CORSの解説を読んだ。
