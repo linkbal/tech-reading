@@ -3,11 +3,10 @@
 
 ## これまでに読んだ文書
 - PKI
-  - 2023/08/17
-    - https://en.wikipedia.org/wiki/Public-key_cryptography
-    - https://en.wikipedia.org/wiki/Public_key_certificate
-    - https://en.wikipedia.org/wiki/Public_key_infrastructure
-    - https://en.wikipedia.org/wiki/Certificate_authority
+  - 2023/08/17: https://en.wikipedia.org/wiki/Public-key_cryptography
+  - 2023/08/24: https://en.wikipedia.org/wiki/Public_key_certificate
+  - 2023/08/31: https://en.wikipedia.org/wiki/Public_key_infrastructure
+  - 2023/09/06（予定）: https://en.wikipedia.org/wiki/Certificate_authority
 - HTTP Header on MDN: [ja](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers)、[en](https://developer.mozilla.org/en/docs/Web/HTTP/Headers)
   - 2023/07/20: Accept-* 系を読んだ。
   - 2023/07/27: CORSの解説を読んだ。
