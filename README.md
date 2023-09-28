@@ -2,6 +2,10 @@
 一人で読むと挫折しそうな技術文書を読む。各文書は4回で終わらせる。たくさん読もうと思わず、読めるところまで。予習や事前準備は無し。
 
 ## これまでに読んだ文書
+- [White Paper: Multi-Device FIDO Credentials](https://fidoalliance.org/white-paper-multi-device-fido-credentials/)
+  - 2023/09/20:
+  - 2023/09/27: 
+- 2023/09/13: Hands-On LinuxをノートPC実機にインストールして Wordpress を動かす
 - PKI
   - 2023/08/17: https://en.wikipedia.org/wiki/Public-key_cryptography
   - 2023/08/24: https://en.wikipedia.org/wiki/Public_key_certificate
@@ -40,6 +44,5 @@
 - [Analysis Patterns](https://www.amazon.co.jp/dp/B0186FU89I/)
 - [RFC 8489: Session Traversal Utilities for NAT (STUN)](https://www.rfc-editor.org/rfc/rfc8489)
 - [RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://www.rfc-editor.org/rfc/rfc6238.txt)
-- [White Paper: Multi-Device FIDO Credentials](https://fidoalliance.org/white-paper-multi-device-fido-credentials/)
 - [HTTP header ja](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers)
 - [HTTP header en](https://developer.mozilla.org/en/docs/Web/HTTP/Headers)
