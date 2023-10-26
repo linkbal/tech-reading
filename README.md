@@ -46,3 +46,4 @@
 - [RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://www.rfc-editor.org/rfc/rfc6238.txt)
 - [HTTP header ja](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers)
 - [HTTP header en](https://developer.mozilla.org/en/docs/Web/HTTP/Headers)
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
