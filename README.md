@@ -2,6 +2,8 @@
 一人で読むと挫折しそうな技術文書を読む。各文書は4回で終わらせる。たくさん読もうと思わず、読めるところまで。予習や事前準備は無し。
 
 ## これまでに読んだ文書
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+  - 2023/10/26: 最初から Frameworks and Drivers. まで読了。
 - [White Paper: Multi-Device FIDO Credentials](https://fidoalliance.org/white-paper-multi-device-fido-credentials/)
   - 2023/09/20:
   - 2023/09/27: 
@@ -44,6 +46,3 @@
 - [Analysis Patterns](https://www.amazon.co.jp/dp/B0186FU89I/)
 - [RFC 8489: Session Traversal Utilities for NAT (STUN)](https://www.rfc-editor.org/rfc/rfc8489)
 - [RFC 6238: TOTP: Time-Based One-Time Password Algorithm](https://www.rfc-editor.org/rfc/rfc6238.txt)
-- [HTTP header ja](https://developer.mozilla.org/ja/docs/Web/HTTP/Headers)
-- [HTTP header en](https://developer.mozilla.org/en/docs/Web/HTTP/Headers)
-- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
