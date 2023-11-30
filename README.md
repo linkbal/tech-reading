@@ -4,7 +4,8 @@
 ## これまでに読んだ文書
 - [Ruby on Rails Guides](https://guides.rubyonrails.org/)
   - 2023/11/08: [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
-  - 2023/11/15: [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
+  - 2023/11/15: [Securing Rails Applications](https://guides.rubyonrails.org/security.html) - 2 Session まで読んだ
+  - 2023/11/30: [Securing Rails Applications](https://guides.rubyonrails.org/security.html) - 4 Redirection and Files まで読んだ
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
   - 2023/10/26: 最初から Frameworks and Drivers. まで読了。
 - [White Paper: Multi-Device FIDO Credentials](https://fidoalliance.org/white-paper-multi-device-fido-credentials/)
