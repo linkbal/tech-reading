@@ -2,6 +2,8 @@
 一人で読むと挫折しそうな技術文書を読む。各文書は4回で終わらせる。たくさん読もうと思わず、読めるところまで。予習や事前準備は無し。
 
 ## これまでに読んだ文書
+- [Mercari’s passkey adoption](https://engineering.mercari.com/en/blog/entry/20230810-mercaris-passkey-adoption/)
+- [Customer Inquiry Routing Algorithm](https://engineering.mercari.com/en/blog/entry/20221223-customer-inquiry-routing-algorithm/)
 - [10 User Onboarding Best Practices in 2023](https://whatfix.com/blog/user-onboarding-best-practices/)
 - AWS講習会
   - 2023/12/07
