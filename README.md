@@ -2,6 +2,11 @@
 一人で読むと挫折しそうな技術文書を読む。各文書は4回で終わらせる。たくさん読もうと思わず、読めるところまで。予習や事前準備は無し。
 
 ## これまでに読んだ文書
+- [10 User Onboarding Best Practices in 2023](https://whatfix.com/blog/user-onboarding-best-practices/)
+- AWS講習会
+  - 2023/12/07
+  - 2023/12/14
+  - 2023/12/21
 - [Ruby on Rails Guides](https://guides.rubyonrails.org/)
   - 2023/11/08: [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
   - 2023/11/15: [Securing Rails Applications](https://guides.rubyonrails.org/security.html) - 2 Session まで読んだ
