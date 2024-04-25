@@ -2,9 +2,9 @@
 一人で読むと挫折しそうな技術文書を読む。各文書は4回で終わらせる。たくさん読もうと思わず、読めるところまで。予習や事前準備は無し。
 
 ## これまでに読んだ文書
-- Learn You a Haskell
-  - 2024/04/25
-  - 2024/04/11
+- [Learn You a Haskell](https://learnyouahaskell.com/)
+  - 2024/04/25: 2. Tuple まで
+  - 2024/04/11: 2. Baby's first functions まで
 - 2023/03/07: [Build a Large Language Model (From Scratch)](https://livebook.manning.com/book/build-a-large-language-model-from-scratch/chapter-1/v-5/)
 - 2024/02/22: [UML State Machine](https://en.wikipedia.org/wiki/UML_state_machine)
 - 2024/02/08: [実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか](https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e)
