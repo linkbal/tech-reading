@@ -2,9 +2,15 @@
 一人で読むと挫折しそうな技術文書を読む。各文書は4回で終わらせる。たくさん読もうと思わず、読めるところまで。予習や事前準備は無し。
 
 ## これまでに読んだ文書
-- [Mercari’s passkey adoption](https://engineering.mercari.com/en/blog/entry/20230810-mercaris-passkey-adoption/)
-- [Customer Inquiry Routing Algorithm](https://engineering.mercari.com/en/blog/entry/20221223-customer-inquiry-routing-algorithm/)
-- [10 User Onboarding Best Practices in 2023](https://whatfix.com/blog/user-onboarding-best-practices/)
+- Learn You a Haskell
+  - 2024/04/25
+  - 2024/04/11
+- 2023/03/07: [Build a Large Language Model (From Scratch)](https://livebook.manning.com/book/build-a-large-language-model-from-scratch/chapter-1/v-5/)
+- 2024/02/22: [UML State Machine](https://en.wikipedia.org/wiki/UML_state_machine)
+- 2024/02/08: [実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか](https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e)
+- 2024/02/01: [Mercari’s passkey adoption](https://engineering.mercari.com/en/blog/entry/20230810-mercaris-passkey-adoption/)
+- 2024/01/25: [Customer Inquiry Routing Algorithm](https://engineering.mercari.com/en/blog/entry/20221223-customer-inquiry-routing-algorithm/)
+- 2024/01/18: [10 User Onboarding Best Practices in 2023](https://whatfix.com/blog/user-onboarding-best-practices/)
 - AWS講習会
   - 2023/12/07
   - 2023/12/14
