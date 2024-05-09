@@ -2,6 +2,8 @@
 一人で読むと挫折しそうな技術文書を読む。各文書は4回で終わらせる。たくさん読もうと思わず、読めるところまで。予習や事前準備は無し。
 
 ## これまでに読んだ文書
+- [Learn You a Haskell](https://learnyouahaskell.com/)
+  - 2024/05/09: 3. Types and Typeclasses
 - 2024/05/02: [The Rise of Audio Dating Apps: Sparking Online Romance's Next Wave](https://www.consagous.co/blog/the-rise-of-audio-dating-apps-sparking-online-romances-next-wave)
 - [Learn You a Haskell](https://learnyouahaskell.com/)
   - 2024/04/25: 2. Tuple まで
